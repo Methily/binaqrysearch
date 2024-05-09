@@ -1,2 +1,2 @@
-# binaqrysearch
+# binarysearch
 binary search using python
